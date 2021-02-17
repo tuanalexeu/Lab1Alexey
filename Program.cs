@@ -2,9 +2,9 @@
 
 namespace Lab1Alexey {
     class Program {
-        static void Main(string[] args) {
-            int[] arr1 = new int[] {1, 5, 4, 11, 20, 8, 2, 98, 90, 16};
-            int[] arr2 = new int[10];
+        static void Main() {
+            int[] arr1 = new int[] {1, 5, 4, 11, 20, 8, 2, 98, 90, 16}; // Для merge sort
+            int[] arr2 = new int[10]; // для quick sort и binary search
             
             Array.Copy(arr1,arr2, arr1.Length);
             

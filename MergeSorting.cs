@@ -2,6 +2,11 @@ using System;
 
 namespace Lab1Alexey {
     public static class MergeSorting {
+        
+        /**
+         * Вспомагательный метод Merge.
+         * Получает два массива, после чего последовательно сливает их путем подстановки в исходный массив
+         */
         private static void Merge(int[] input, int left, int middle, int right) {
             int[] leftArray = new int[middle - left + 1];
             int[] rightArray = new int[right - middle];
@@ -28,6 +33,11 @@ namespace Lab1Alexey {
             }
         }
 
+        /**
+         * Сортировка слиянием.
+         * Рекурсивно разделяем массив пополам, пока не получим единичные элементы,
+         * после чего сливаем их воедино (в порядке возрастания/убывания)
+         */
         public static void MergeSort(int[] input, int left, int right) {
             if (left < right) {
                 int middle = (left + right) / 2;

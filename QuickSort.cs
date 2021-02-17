@@ -1,5 +1,11 @@
 namespace Lab1Alexey {
     public class QuickSort {
+        
+        /**
+         * Быстрая сортировка.
+         * Находим опорный элемент (pivot), далее переставляем все большие элементы в правую часть от этого элемента,
+         * А меньшие - в левую. Продолжаем рекурсивно
+         */
         public static void sort(int[] arr, int left, int right) {
             if (left < right) {
                 int pivot = Partition(arr, left, right);
@@ -15,6 +21,9 @@ namespace Lab1Alexey {
 
         }
 
+        /**
+         * Вспомогательный метод, который находит опорный элемент, после чего переставляет элементы
+         */
         private static int Partition(int[] arr, int left, int right) {
             int pivot = arr[left];
             while (true) {
