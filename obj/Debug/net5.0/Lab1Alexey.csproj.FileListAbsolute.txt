@@ -1,0 +1,15 @@
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1alexey/bin/Debug/net5.0/Lab1Alexey.deps.json
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1alexey/bin/Debug/net5.0/Lab1Alexey.runtimeconfig.json
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1alexey/bin/Debug/net5.0/Lab1Alexey.runtimeconfig.dev.json
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/bin/Debug/net5.0/Lab1Alexey.dll
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1alexey/bin/Debug/net5.0/ref/Lab1Alexey.dll
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/bin/Debug/net5.0/Lab1Alexey.pdb
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.csprojAssemblyReference.cache
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.AssemblyInfoInputs.cache
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.AssemblyInfo.cs
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.csproj.CoreCompileInputs.cache
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.dll
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/ref/Lab1Alexey.dll
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1Alexey/obj/Debug/net5.0/Lab1Alexey.pdb
+/Users/aleksejtan/Desktop/Dev/github/Lab1alexey/Lab1alexey/obj/Debug/net5.0/Lab1Alexey.genruntimeconfig.cache
